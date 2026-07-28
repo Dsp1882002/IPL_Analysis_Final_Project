@@ -1,0 +1,581 @@
+player_id,player_name,nationality,dob_year,batting_style,bowling_style,playing_role,ipl_debut_season,last_season_played,is_capped_international,base_price_lakh,highest_auction_price_lakh
+P0001,Umesh Cummins,India,1981,Right-hand bat,,Batsman,2008,2018,True,75,100
+P0002,Jofra Natarajan,South Africa,1991,Right-hand bat,Slow left-arm orthodox,Bowler,2011,2019,False,100,405
+P0003,Aaron Buttler,India,2002,Right-hand bat,Left-arm fast,All-Rounder,2024,2025,True,20,105
+P0004,Shadab Finch,Australia,1990,Right-hand bat,,Batsman,2008,2017,True,50,505
+P0005,Reece Ashraf,South Africa,2002,Left-hand bat,Right-arm fast,Bowler,2023,2025,True,200,710
+P0006,Lungi Ashwin,India,1999,Right-hand bat,Left-arm orthodox,Bowler,2020,2025,True,150,1220
+P0007,Ben Pandey,India,1998,Right-hand bat,Right-arm leg break,All-Rounder,2018,2025,False,50,515
+P0008,Jofra Jadeja,India,1996,Right-hand bat,Right-arm medium,All-Rounder,2018,2022,False,150,975
+P0009,Kuldeep Ashwin,Australia,2001,Right-hand bat,,Batsman,2024,2025,True,100,540
+P0010,Devon Sundar,India,1983,Left-hand bat,Right-arm medium,Bowler,2008,2018,True,20,105
+P0011,Kieron Samson,South Africa,1981,Right-hand bat,,Batsman,2008,2021,True,150,710
+P0012,Jos Ashwin,Nepal,2002,Left-hand bat,,Batsman,2021,2025,True,20,210
+P0013,Umesh Natarajan,Australia,2002,Right-hand bat,Left-arm fast,Bowler,2019,2025,True,50,320
+P0014,Faheem Tahir,Zimbabwe,1980,Right-hand bat,,Batsman,2008,2022,True,20,235
+P0015,Trent Boult,India,2005,Left-hand bat,Left-arm fast,All-Rounder,2021,2025,False,100,930
+P0016,Krunal Tahir,India,1994,Right-hand bat,Left-arm orthodox,Bowler,2018,2020,True,40,140
+P0017,Ajinkya Saha,South Africa,1979,Right-hand bat,,Batsman,2008,2010,True,20,210
+P0018,Quinton Ngidi,South Africa,1996,Right-hand bat,Left-arm fast,All-Rounder,2020,2024,True,200,1240
+P0019,Glenn Maxwell,Australia,2001,Right-hand bat,Right-arm leg break,All-Rounder,2018,2025,True,150,1775
+P0020,Mohammad van der Dussen,India,1995,Left-hand bat,,Batsman,2019,2022,True,75,225
+P0021,Harry Yadav,India,1998,Left-hand bat,Right-arm fast-medium,Bowler,2015,2017,True,200,2065
+P0022,Nicholas Chahar,India,1978,Right-hand bat,,Batsman,2008,2013,True,200,1925
+P0023,Ambati van der Dussen,India,1987,Right-hand bat,,Wicketkeeper-Batsman,2008,2009,True,100,910
+P0024,Babar Gill,India,1994,Right-hand bat,,Batsman,2012,2025,True,40,70
+P0025,Reece de Kock,India,1997,Left-hand bat,Left-arm fast-medium,Bowler,2014,2024,True,20,110
+P0026,Alzarri Azam,India,1990,Right-hand bat,,Wicketkeeper-Batsman,2009,2020,True,150,645
+P0027,Marcus Yadav,USA,1980,Right-hand bat,,Batsman,2008,2017,True,50,125
+P0028,Rishabh Rabada,South Africa,1997,Right-hand bat,Right-arm fast-medium,Bowler,2014,2025,False,200,1420
+P0029,Mitchell Conway,India,1987,Left-hand bat,,Batsman,2008,2020,True,50,160
+P0030,AB Natarajan,India,1991,Left-hand bat,Right-arm fast,Bowler,2012,2013,True,20,95
+P0031,AB Buttler,England,1981,Right-hand bat,Right-arm leg break,All-Rounder,2008,2023,True,150,1640
+P0032,Mark Riaz,India,1989,Right-hand bat,Left-arm fast,Bowler,2008,2023,True,50,165
+P0033,Mitchell Ali,Nepal,2001,Left-hand bat,Right-arm leg break,All-Rounder,2020,2025,False,40,420
+P0034,Dawid Bairstow,West Indies,1991,Right-hand bat,,Wicketkeeper-Batsman,2011,2016,True,40,385
+P0035,Harry Jadeja,India,2004,Right-hand bat,,Wicketkeeper-Batsman,2024,2025,True,20,165
+P0036,Lungi Pant,Australia,1999,Right-hand bat,,Wicketkeeper-Batsman,2021,2022,True,20,215
+P0037,Shikhar de Villiers,South Africa,1988,Right-hand bat,,Batsman,2011,2021,False,100,225
+P0038,Moeen du Plessis,Pakistan,1995,Right-hand bat,,Batsman,2015,2021,False,75,135
+P0039,Mohammad Hazlewood,Australia,1999,Left-hand bat,,Batsman,2022,2025,True,75,650
+P0040,Moeen Gaikwad,England,1987,Right-hand bat,Left-arm fast,All-Rounder,2010,2019,True,200,200
+P0041,Gulbadin Zampa,India,1984,Right-hand bat,Left-arm wrist spin,Bowler,2008,2021,False,200,1820
+P0042,Marco Sundar,West Indies,2002,Right-hand bat,Right-arm medium,All-Rounder,2022,2025,True,50,175
+P0043,Jasprit Pandya,Australia,1998,Right-hand bat,,Batsman,2018,2025,True,150,785
+P0044,Martin Wood,New Zealand,1985,Left-hand bat,Right-arm medium,All-Rounder,2008,2021,True,150,1005
+P0045,Kagiso Williamson,Australia,1995,Left-hand bat,Slow left-arm orthodox,Bowler,2017,2025,False,75,580
+P0046,Denesh Shaw,New Zealand,1993,Right-hand bat,Left-arm fast,All-Rounder,2017,2022,True,200,745
+P0047,Nathan Klaasen,India,2000,Right-hand bat,Right-arm offbreak,Bowler,2021,2025,False,50,235
+P0048,David Conway,South Africa,1980,Right-hand bat,,Batsman,2008,2015,True,50,350
+P0049,Liam Gaikwad,Sri Lanka,2002,Left-hand bat,Right-arm fast,Bowler,2025,2025,True,20,225
+P0050,Rashid Gaikwad,Afghanistan,1993,Left-hand bat,Left-arm fast-medium,Bowler,2013,2018,True,75,475
+P0051,Sanju Pope,Bangladesh,1997,Left-hand bat,Left-arm wrist spin,All-Rounder,2014,2025,False,75,565
+P0052,David Anderson,India,1990,Left-hand bat,Left-arm fast,Bowler,2012,2016,False,75,345
+P0053,Shoaib Ngidi,Sri Lanka,1993,Left-hand bat,Right-arm offbreak,All-Rounder,2010,2022,False,100,155
+P0054,Chris Wood,New Zealand,1985,Left-hand bat,,Batsman,2008,2022,True,20,155
+P0055,Jason Hales,South Africa,2002,Left-hand bat,,Batsman,2024,2025,False,100,770
+P0056,Pat Klaasen,England,1987,Left-hand bat,Right-arm medium,All-Rounder,2010,2017,True,150,475
+P0057,Mark Malan,Sri Lanka,1997,Right-hand bat,,Batsman,2015,2025,True,100,960
+P0058,Ibrahim Broad,India,1991,Right-hand bat,Left-arm orthodox,Bowler,2015,2017,True,75,870
+P0059,Mark Ashwin,Ireland,1986,Right-hand bat,Right-arm fast-medium,All-Rounder,2010,2018,True,75,755
+P0060,Shaheen Rabada,India,1992,Right-hand bat,Left-arm wrist spin,All-Rounder,2015,2021,True,20,130
+P0061,Nicholas Rashid,Afghanistan,2000,Right-hand bat,Right-arm offbreak,Bowler,2021,2025,True,20,135
+P0062,Quinton Coetzee,South Africa,1998,Right-hand bat,Left-arm medium,Bowler,2022,2025,True,200,240
+P0063,Mohammad Brook,Australia,1994,Right-hand bat,,Batsman,2016,2023,True,150,1060
+P0064,Andre Nortje,India,2001,Right-hand bat,,Batsman,2020,2024,True,40,365
+P0065,Ajinkya Brewis,Sri Lanka,1987,Right-hand bat,Right-arm medium,Bowler,2008,2014,False,40,175
+P0066,Trent Ngidi,South Africa,1982,Right-hand bat,,Batsman,2008,2010,True,200,225
+P0067,Dwayne Dhawan,Zimbabwe,1993,Left-hand bat,,Batsman,2011,2025,True,20,110
+P0068,Shardul Topley,Zimbabwe,1980,Right-hand bat,,Batsman,2008,2010,True,100,940
+P0069,Matthew Hazlewood,Bangladesh,1987,Right-hand bat,,Batsman,2010,2015,True,100,785
+P0070,Adam Maxwell,India,1980,Right-hand bat,,Wicketkeeper-Batsman,2008,2012,True,40,285
+P0071,Naveen Rahane,India,2000,Right-hand bat,Right-arm fast,All-Rounder,2021,2025,False,200,1200
+P0072,Dwaine de Villiers,West Indies,1984,Right-hand bat,Slow left-arm orthodox,All-Rounder,2008,2010,True,100,345
+P0073,Anrich Guptill,England,2004,Right-hand bat,,Batsman,2025,2025,True,20,125
+P0074,Mohammad Nortje,England,1991,Right-hand bat,Right-arm medium,Bowler,2013,2023,True,50,65
+P0075,Manish Ferguson,West Indies,1996,Right-hand bat,Slow left-arm orthodox,Bowler,2013,2025,True,200,585
+P0076,Najibullah Ngidi,West Indies,1980,Right-hand bat,,Batsman,2008,2014,False,75,350
+P0077,Ollie Buttler,South Africa,1990,Right-hand bat,,Batsman,2008,2016,True,20,90
+P0078,Nathan Iyer,South Africa,1995,Left-hand bat,,Wicketkeeper-Batsman,2019,2025,True,20,60
+P0079,Marcus Siraj,India,1982,Left-hand bat,Left-arm medium,Bowler,2008,2016,True,150,950
+P0080,Shardul Finch,England,1995,Left-hand bat,Right-arm offbreak,All-Rounder,2018,2020,False,40,475
+P0081,Kieron Williamson,Australia,1986,Right-hand bat,Right-arm offbreak,Bowler,2009,2023,True,75,885
+P0082,Ishan Guptill,New Zealand,1982,Left-hand bat,Right-arm fast-medium,Bowler,2008,2013,True,200,1940
+P0083,Marchant Natarajan,Sri Lanka,1996,Right-hand bat,,Batsman,2020,2025,True,40,235
+P0084,Mohammad Saha,Sri Lanka,2000,Right-hand bat,Left-arm orthodox,All-Rounder,2020,2025,False,75,270
+P0085,Hardik Azam,India,1999,Left-hand bat,Right-arm leg break,All-Rounder,2018,2025,False,20,50
+P0086,Mohammad Maxwell,Bangladesh,1978,Right-hand bat,,Wicketkeeper-Batsman,2008,2015,True,200,1640
+P0087,Jason de Villiers,India,1988,Right-hand bat,,Batsman,2011,2017,False,150,1335
+P0088,Harry Karthik,South Africa,1987,Right-hand bat,,Batsman,2008,2020,True,20,115
+P0089,Umesh Rossouw,Bangladesh,1979,Right-hand bat,,Wicketkeeper-Batsman,2008,2021,True,20,85
+P0090,Martin Rabada,India,1980,Right-hand bat,Left-arm fast,Bowler,2008,2018,False,150,545
+P0091,Martin Archer,South Africa,2003,Right-hand bat,Right-arm offbreak,Bowler,2022,2025,True,100,275
+P0092,Shadab Southee,Australia,1987,Left-hand bat,,Batsman,2008,2015,True,200,1265
+P0093,Devdutt Ali,India,2004,Left-hand bat,Right-arm offbreak,Bowler,2022,2023,False,100,1050
+P0094,KL Finch,New Zealand,1985,Left-hand bat,Right-arm offbreak,All-Rounder,2008,2012,True,150,465
+P0095,Marcus Coetzee,England,1998,Right-hand bat,Left-arm fast,All-Rounder,2015,2020,True,200,1170
+P0096,Lockie Boult,India,1982,Right-hand bat,,Batsman,2008,2017,False,100,1105
+P0097,Faf Chahar,West Indies,1992,Right-hand bat,,Wicketkeeper-Batsman,2010,2013,False,200,2325
+P0098,Rahul Pope,India,2003,Left-hand bat,,Wicketkeeper-Batsman,2020,2025,True,100,235
+P0099,Tim Pope,Zimbabwe,1981,Right-hand bat,,Batsman,2008,2016,False,20,155
+P0100,Shaheen Lyon,Bangladesh,1987,Right-hand bat,,Batsman,2010,2012,True,40,60
+P0101,Sunil Cummins,India,1989,Left-hand bat,,Batsman,2012,2022,False,150,1350
+P0102,Washington Maxwell,India,1989,Right-hand bat,Right-arm offbreak,All-Rounder,2009,2017,False,75,860
+P0103,Glenn Topley,India,1990,Left-hand bat,Slow left-arm orthodox,Bowler,2011,2015,False,20,230
+P0104,Steve Broad,India,1988,Right-hand bat,,Batsman,2008,2011,True,200,1440
+P0105,Aaron Saha,India,1982,Right-hand bat,,Batsman,2008,2013,False,200,2365
+P0106,Shreyas du Plessis,India,1989,Right-hand bat,Right-arm fast,All-Rounder,2009,2019,True,50,60
+P0107,Trent de Bruyn,Australia,2002,Right-hand bat,Right-arm medium,Bowler,2024,2025,True,100,220
+P0108,Tristan Lyon,Australia,1992,Left-hand bat,,Batsman,2009,2010,True,75,775
+P0109,Mitchell Thakur,India,1982,Right-hand bat,Right-arm medium,All-Rounder,2008,2011,True,50,395
+P0110,Krunal Afridi,Australia,1997,Right-hand bat,Right-arm offbreak,Bowler,2020,2022,False,200,1745
+P0111,Washington Stubbs,Australia,1985,Left-hand bat,Right-arm leg break,Bowler,2008,2014,True,200,1200
+P0112,Glenn Azam,Netherlands,1999,Right-hand bat,Left-arm orthodox,Bowler,2023,2025,True,20,205
+P0113,Glenn Pretorius,India,1995,Left-hand bat,Right-arm fast-medium,All-Rounder,2017,2025,False,20,110
+P0114,Dewald Brevis,Ireland,1997,Left-hand bat,Right-arm fast,Bowler,2018,2024,True,20,145
+P0115,Mayank Chahar,India,2002,Right-hand bat,,Batsman,2023,2025,False,40,395
+P0116,Nathan Hazlewood,England,1999,Right-hand bat,Right-arm fast,Bowler,2020,2021,False,40,160
+P0117,Aiden Zaman,England,1990,Right-hand bat,Left-arm fast,Bowler,2008,2011,True,150,1195
+P0118,Tim Samson,India,1987,Right-hand bat,,Batsman,2009,2022,False,100,755
+P0119,Ross Buttler,India,1999,Right-hand bat,Right-arm medium,All-Rounder,2022,2025,True,100,585
+P0120,Marcus Sundar,South Africa,1996,Right-hand bat,,Batsman,2020,2025,True,150,660
+P0121,Ravichandran Gill,New Zealand,2002,Right-hand bat,,Batsman,2023,2025,True,50,115
+P0122,Gulbadin Bairstow,Australia,2004,Right-hand bat,,Batsman,2020,2025,True,200,1830
+P0123,Andre Yadav,India,1998,Right-hand bat,,Wicketkeeper-Batsman,2021,2025,False,20,110
+P0124,Ben Hazlewood,India,2005,Right-hand bat,Left-arm orthodox,Bowler,2023,2025,True,75,560
+P0125,Mujeeb Tahir,India,1998,Right-hand bat,Left-arm fast,All-Rounder,2016,2025,False,100,315
+P0126,Shadab van der Dussen,India,1982,Right-hand bat,,Wicketkeeper-Batsman,2008,2012,False,40,305
+P0127,Washington Yadav,Australia,1996,Left-hand bat,,Batsman,2020,2025,False,100,805
+P0128,Shaheen Malan,India,1987,Right-hand bat,,Batsman,2008,2018,True,20,95
+P0129,Kieron Rahane,India,2005,Right-hand bat,,Batsman,2023,2025,True,100,660
+P0130,Ishan de Bruyn,South Africa,1988,Right-hand bat,,Wicketkeeper-Batsman,2012,2021,True,40,460
+P0131,Dawid Zaman,India,1985,Right-hand bat,,Wicketkeeper-Batsman,2009,2017,True,100,675
+P0132,Wahab Jansen,England,2003,Left-hand bat,Slow left-arm orthodox,Bowler,2025,2025,False,50,100
+P0133,Marco du Plessis,Afghanistan,1988,Right-hand bat,Left-arm fast-medium,All-Rounder,2008,2018,True,150,385
+P0134,Washington Salt,India,1990,Right-hand bat,Right-arm medium,All-Rounder,2012,2025,False,40,335
+P0135,Adam Topley,India,1989,Right-hand bat,,Wicketkeeper-Batsman,2008,2014,True,50,150
+P0136,Tristan Stubbs,India,1987,Right-hand bat,Left-arm fast,Bowler,2008,2017,False,200,1385
+P0137,Axar Jadeja,India,1990,Left-hand bat,Left-arm fast-medium,All-Rounder,2009,2012,False,40,405
+P0138,Dawid Stokes,South Africa,1985,Right-hand bat,Left-arm orthodox,All-Rounder,2009,2019,False,50,465
+P0139,Jofra Pandey,Bangladesh,1984,Left-hand bat,,Batsman,2008,2019,True,100,1185
+P0140,Marco Klaasen,West Indies,2003,Right-hand bat,Left-arm fast,Bowler,2022,2025,True,50,80
+P0141,Wahab Saha,Sri Lanka,1987,Left-hand bat,,Wicketkeeper-Batsman,2008,2021,False,40,160
+P0142,Martin Padikkal,Afghanistan,1978,Left-hand bat,,Batsman,2008,2009,True,75,490
+P0143,David Riaz,Sri Lanka,1998,Right-hand bat,,Batsman,2020,2025,True,40,100
+P0144,Mark Shami,India,1978,Right-hand bat,Left-arm wrist spin,All-Rounder,2008,2009,True,50,170
+P0145,Dewald van der Dussen,India,1981,Right-hand bat,Right-arm offbreak,Bowler,2008,2012,True,75,600
+P0146,Rishabh Cummins,India,1994,Right-hand bat,Right-arm fast-medium,All-Rounder,2014,2025,True,40,170
+P0147,Hasan de Kock,India,1989,Right-hand bat,Slow left-arm orthodox,Bowler,2008,2017,False,100,660
+P0148,Ishan Dhoni,India,1989,Right-hand bat,Slow left-arm orthodox,Bowler,2010,2022,True,20,100
+P0149,Quinton van der Dussen,New Zealand,1988,Right-hand bat,Left-arm fast-medium,All-Rounder,2008,2009,False,50,350
+P0150,Jonny Klaasen,England,2003,Left-hand bat,Left-arm wrist spin,All-Rounder,2022,2024,True,150,1430
+P0151,Dale Curran,India,1987,Right-hand bat,,Batsman,2010,2024,True,100,620
+P0152,Kuldeep Ali,Sri Lanka,1988,Left-hand bat,,Batsman,2009,2011,False,200,1010
+P0153,Tim Dhawan,Australia,1993,Right-hand bat,,Wicketkeeper-Batsman,2015,2025,False,200,1340
+P0154,Lockie Shaw,Australia,1988,Right-hand bat,,Batsman,2008,2010,True,50,415
+P0155,Bhuvneshwar Markram,India,2001,Right-hand bat,Left-arm orthodox,Bowler,2023,2025,False,75,300
+P0156,Tristan Gill,Australia,2001,Right-hand bat,,Batsman,2020,2021,False,40,415
+P0157,Najibullah Jadeja,India,1990,Right-hand bat,,Batsman,2008,2018,False,40,340
+P0158,Wahab Dhawan,India,1988,Right-hand bat,Right-arm fast-medium,All-Rounder,2009,2013,True,20,25
+P0159,Alzarri Amir,South Africa,1984,Right-hand bat,,Wicketkeeper-Batsman,2008,2020,True,75,240
+P0160,Suryakumar Rahane,West Indies,2005,Left-hand bat,,Batsman,2025,2025,True,150,255
+P0161,Rilee Amla,India,1989,Left-hand bat,,Wicketkeeper-Batsman,2009,2011,True,40,390
+P0162,Sunil Bumrah,West Indies,1995,Right-hand bat,Left-arm wrist spin,Bowler,2014,2024,True,20,35
+P0163,Krunal Coetzee,West Indies,1980,Right-hand bat,Right-arm leg break,Bowler,2008,2014,True,150,270
+P0164,Alzarri Khan,England,1983,Left-hand bat,,Batsman,2008,2015,True,100,1100
+P0165,Kane Agarwal,Pakistan,1985,Right-hand bat,,Batsman,2008,2017,True,50,515
+P0166,Umesh Saha,Australia,1994,Right-hand bat,,Batsman,2013,2023,False,100,270
+P0167,Rahul Finch,West Indies,1978,Left-hand bat,,Batsman,2008,2009,True,150,1420
+P0168,Liam Stubbs,Australia,1998,Right-hand bat,Right-arm fast,Bowler,2019,2025,False,50,315
+P0169,Dinesh Iyer,India,1991,Right-hand bat,,Batsman,2015,2023,True,40,190
+P0170,Reece Markram,Nepal,1982,Left-hand bat,,Batsman,2008,2017,True,100,215
+P0171,Kane Nortje,India,1990,Right-hand bat,Right-arm fast,Bowler,2013,2017,False,200,2185
+P0172,Marchant Ferguson,Australia,1994,Right-hand bat,Left-arm fast,All-Rounder,2018,2025,True,50,325
+P0173,Mujeeb Natarajan,India,1979,Right-hand bat,Left-arm fast-medium,Bowler,2008,2016,False,100,1070
+P0174,Jason Jansen,India,1986,Left-hand bat,Right-arm leg break,Bowler,2008,2021,True,75,375
+P0175,Prithvi Rayudu,India,1992,Right-hand bat,,Batsman,2013,2025,True,100,850
+P0176,Glenn Chahal,Pakistan,2002,Left-hand bat,Right-arm fast-medium,Bowler,2021,2025,True,100,660
+P0177,Hardik Jadeja,Australia,1982,Right-hand bat,,Batsman,2008,2014,True,100,450
+P0178,Mohammed de Bruyn,West Indies,1995,Right-hand bat,Right-arm fast-medium,All-Rounder,2019,2025,False,100,430
+P0179,Wahab Rizwan,India,2001,Left-hand bat,Left-arm fast-medium,All-Rounder,2018,2025,False,75,295
+P0180,Mitch Zampa,Australia,1994,Left-hand bat,Left-arm fast-medium,Bowler,2017,2020,True,200,1700
+P0181,Tristan Salt,India,1991,Right-hand bat,,Batsman,2011,2018,False,100,950
+P0182,Harry de Bruyn,India,1988,Left-hand bat,Right-arm fast-medium,All-Rounder,2012,2021,True,75,335
+P0183,Rassie Pandey,England,2000,Right-hand bat,,Batsman,2021,2025,True,75,235
+P0184,Ruturaj Amla,New Zealand,2000,Left-hand bat,,Batsman,2020,2025,True,150,955
+P0185,Ruturaj Coetzee,Australia,1990,Right-hand bat,,Batsman,2012,2025,True,200,520
+P0186,Heinrich Markram,India,1993,Left-hand bat,,Batsman,2013,2017,False,200,1385
+P0187,Ambati Nortje,India,1979,Right-hand bat,,Batsman,2008,2019,True,40,65
+P0188,Krunal Shami,Ireland,1983,Left-hand bat,,Batsman,2008,2019,True,75,470
+P0189,Marco Afridi,South Africa,1985,Right-hand bat,,Batsman,2008,2023,False,40,225
+P0190,Marchant Jadeja,India,2001,Right-hand bat,,Wicketkeeper-Batsman,2022,2025,True,20,20
+P0191,Mitchell Rizwan,Australia,1982,Left-hand bat,,Batsman,2008,2013,True,40,395
+P0192,Lockie Ashwin,New Zealand,2003,Left-hand bat,Right-arm fast,Bowler,2024,2025,True,150,1400
+P0193,Ollie Curran,India,1990,Left-hand bat,,Wicketkeeper-Batsman,2008,2011,False,40,250
+P0194,Virat de Villiers,Netherlands,1987,Right-hand bat,Right-arm offbreak,Bowler,2008,2013,True,150,745
+P0195,Sanju Williamson,Australia,2000,Right-hand bat,Slow left-arm orthodox,Bowler,2021,2025,False,20,160
+P0196,Wahab Lyon,India,2001,Left-hand bat,,Batsman,2023,2025,True,150,1055
+P0197,Yuzvendra Hales,New Zealand,2005,Left-hand bat,Slow left-arm orthodox,All-Rounder,2023,2025,True,75,510
+P0198,Aiden Uthappa,India,1995,Left-hand bat,,Batsman,2014,2017,True,50,520
+P0199,Dinesh Livingstone,India,1979,Right-hand bat,Right-arm fast-medium,All-Rounder,2008,2011,True,100,555
+P0200,Ruturaj Kumar,India,2004,Right-hand bat,Right-arm fast,All-Rounder,2021,2025,True,40,295
+P0201,Shadab Salt,USA,1993,Left-hand bat,,Batsman,2010,2015,True,75,225
+P0202,Kuldeep van der Dussen,India,1990,Right-hand bat,Right-arm leg break,Bowler,2013,2015,False,150,1740
+P0203,Devon Wood,India,1982,Right-hand bat,,Wicketkeeper-Batsman,2008,2022,False,20,185
+P0204,Kieron Pope,West Indies,1985,Right-hand bat,Right-arm leg break,All-Rounder,2009,2015,False,40,160
+P0205,Rahul Brewis,England,1978,Left-hand bat,,Batsman,2008,2012,True,20,40
+P0206,Ravichandran Pope,India,1985,Right-hand bat,Right-arm fast,All-Rounder,2008,2021,True,200,1905
+P0207,Dale Archer,England,2002,Left-hand bat,Left-arm orthodox,All-Rounder,2024,2025,False,50,530
+P0208,Alzarri Gayle,Zimbabwe,2001,Right-hand bat,Right-arm fast-medium,Bowler,2020,2025,True,150,855
+P0209,Shadab Anderson,South Africa,1991,Left-hand bat,Left-arm orthodox,All-Rounder,2010,2015,True,75,225
+P0210,Quinton Gayle,Bangladesh,1995,Left-hand bat,,Batsman,2018,2025,True,100,685
+P0211,Faf Livingstone,Sri Lanka,1980,Right-hand bat,,Batsman,2008,2009,True,50,255
+P0212,Hardik Yadav,England,1993,Left-hand bat,,Batsman,2013,2025,False,50,215
+P0213,Adil Ali,Bangladesh,2000,Right-hand bat,,Wicketkeeper-Batsman,2020,2025,False,40,285
+P0214,Shoaib Kumar,India,1993,Right-hand bat,Right-arm offbreak,Bowler,2017,2019,True,200,2360
+P0215,Stuart Azam,India,2005,Right-hand bat,,Wicketkeeper-Batsman,2025,2025,True,40,45
+P0216,Shikhar Zampa,India,1990,Right-hand bat,Left-arm medium,All-Rounder,2010,2018,False,100,820
+P0217,Faf Brewis,New Zealand,1992,Left-hand bat,Slow left-arm orthodox,All-Rounder,2011,2023,True,200,975
+P0218,Shreyas Thakur,Netherlands,1994,Left-hand bat,,Batsman,2011,2025,False,200,365
+P0219,KL Brewis,India,2000,Right-hand bat,,Batsman,2019,2020,True,40,265
+P0220,Deepak Curran,South Africa,1978,Right-hand bat,Left-arm wrist spin,All-Rounder,2008,2017,True,100,550
+P0221,Rahul Ngidi,West Indies,1999,Right-hand bat,Right-arm fast-medium,Bowler,2022,2025,True,40,85
+P0222,Ross de Kock,India,1990,Right-hand bat,,Batsman,2008,2014,True,75,455
+P0223,Ambati Gayle,South Africa,2005,Left-hand bat,,Batsman,2022,2024,True,75,390
+P0224,Shubman Curran,Sri Lanka,1998,Right-hand bat,,Batsman,2020,2025,False,200,2340
+P0225,Aiden Pandya,Australia,1979,Left-hand bat,,Batsman,2008,2019,True,50,545
+P0226,Ravindra Bairstow,England,2002,Right-hand bat,,Wicketkeeper-Batsman,2025,2025,True,20,85
+P0227,Prithvi Amir,New Zealand,1982,Right-hand bat,Right-arm leg break,All-Rounder,2008,2017,True,150,1760
+P0228,Gulbadin Archer,Netherlands,1990,Right-hand bat,Left-arm fast-medium,All-Rounder,2012,2013,False,150,600
+P0229,Nicholas Archer,India,1996,Left-hand bat,Right-arm leg break,Bowler,2019,2021,False,200,1560
+P0230,Krunal Yadav,India,1990,Right-hand bat,,Batsman,2012,2018,False,20,40
+P0231,Najibullah Ashraf,India,1992,Right-hand bat,Right-arm medium,All-Rounder,2015,2017,True,20,40
+P0232,Ravichandran Marsh,India,1990,Left-hand bat,Right-arm fast,All-Rounder,2008,2020,False,100,1095
+P0233,Devdutt Agarwal,India,1986,Right-hand bat,,Batsman,2010,2013,True,20,55
+P0234,Hashim Chahar,South Africa,1993,Right-hand bat,Left-arm medium,All-Rounder,2013,2021,True,20,50
+P0235,Mujeeb Rizwan,India,1991,Right-hand bat,Left-arm orthodox,All-Rounder,2010,2015,False,50,380
+P0236,Dwayne Azam,India,2000,Right-hand bat,,Batsman,2024,2025,True,200,735
+P0237,Tom Chahal,England,1995,Left-hand bat,Left-arm medium,Bowler,2014,2025,False,200,1410
+P0238,Kieron Rossouw,West Indies,2003,Left-hand bat,,Batsman,2025,2025,True,40,320
+P0239,Mayank Taylor,India,1997,Left-hand bat,Right-arm medium,All-Rounder,2021,2025,False,75,515
+P0240,Harry Brook,South Africa,2003,Right-hand bat,Left-arm orthodox,Bowler,2021,2023,False,200,745
+P0241,Ben Anderson,South Africa,1990,Right-hand bat,Slow left-arm orthodox,Bowler,2012,2025,True,75,160
+P0242,Chris Sundar,India,1989,Right-hand bat,Left-arm fast-medium,All-Rounder,2012,2020,False,200,1695
+P0243,Ross Khan,India,1980,Right-hand bat,,Wicketkeeper-Batsman,2008,2022,True,150,385
+P0244,Andre Livingstone,India,2000,Right-hand bat,Right-arm medium,Bowler,2024,2025,False,20,85
+P0245,Pat Dhoni,West Indies,2001,Right-hand bat,Slow left-arm orthodox,All-Rounder,2021,2025,True,40,285
+P0246,Ibrahim Kumar,India,1999,Right-hand bat,,Batsman,2022,2025,False,20,180
+P0247,Shimron Southee,India,2002,Right-hand bat,Left-arm medium,Bowler,2020,2025,True,20,195
+P0248,Faheem Afridi,Sri Lanka,1994,Right-hand bat,,Batsman,2016,2025,True,75,580
+P0249,Shadab Ali,South Africa,1987,Right-hand bat,Slow left-arm orthodox,All-Rounder,2008,2019,True,40,180
+P0250,Pat Root,India,1982,Right-hand bat,Right-arm leg break,Bowler,2008,2015,True,40,255
+P0251,Aiden Anderson,Australia,1982,Right-hand bat,,Wicketkeeper-Batsman,2008,2014,True,200,1190
+P0252,Hasan Sharma,Ireland,1994,Right-hand bat,Right-arm leg break,Bowler,2018,2025,False,150,960
+P0253,Najibullah Thakur,India,1986,Right-hand bat,,Batsman,2008,2017,True,50,145
+P0254,Tim Stubbs,England,1986,Right-hand bat,Right-arm medium,All-Rounder,2008,2017,False,200,1865
+P0255,Najibullah Karthik,New Zealand,1987,Right-hand bat,,Batsman,2008,2016,False,50,240
+P0256,Najibullah Williamson,South Africa,2005,Right-hand bat,Left-arm fast-medium,All-Rounder,2021,2025,False,40,385
+P0257,Dawid Gill,Australia,1988,Right-hand bat,Left-arm fast-medium,Bowler,2009,2014,False,100,395
+P0258,Gerald Pope,Bangladesh,1986,Right-hand bat,Right-arm leg break,All-Rounder,2008,2020,True,200,490
+P0259,Aaron Pope,India,1991,Right-hand bat,Slow left-arm orthodox,Bowler,2014,2022,False,20,160
+P0260,Steve Iyer,Australia,1993,Right-hand bat,Left-arm orthodox,Bowler,2015,2025,False,20,210
+P0261,Steve van der Dussen,Sri Lanka,2003,Right-hand bat,,Wicketkeeper-Batsman,2021,2025,True,200,665
+P0262,Mark Jansen,Sri Lanka,2003,Right-hand bat,,Batsman,2025,2025,True,150,1410
+P0263,Shardul Ashwin,India,1978,Left-hand bat,,Batsman,2008,2012,False,150,1650
+P0264,Hashim Buttler,South Africa,1986,Left-hand bat,,Wicketkeeper-Batsman,2008,2014,True,150,1640
+P0265,Mujeeb Malan,India,1980,Right-hand bat,,Batsman,2008,2009,True,40,250
+P0266,Chris Agarwal,West Indies,2005,Right-hand bat,Left-arm orthodox,All-Rounder,2025,2025,True,75,135
+P0267,Lockie Starc,India,2002,Right-hand bat,,Batsman,2021,2025,True,150,385
+P0268,Rohit Lyon,England,1982,Right-hand bat,Left-arm medium,All-Rounder,2008,2018,True,150,880
+P0269,Rilee Maxwell,India,1991,Right-hand bat,,Batsman,2013,2025,True,40,150
+P0270,Kagiso Saha,New Zealand,2000,Left-hand bat,Right-arm offbreak,Bowler,2017,2025,True,200,1650
+P0271,Alzarri Finch,England,2003,Left-hand bat,Right-arm offbreak,Bowler,2023,2025,True,75,170
+P0272,Ravichandran Yadav,Pakistan,1982,Left-hand bat,Left-arm orthodox,Bowler,2008,2022,True,200,1450
+P0273,Dinesh Bairstow,India,1980,Left-hand bat,Right-arm medium,All-Rounder,2008,2013,True,40,60
+P0274,Matthew Chahal,New Zealand,1991,Right-hand bat,Right-arm fast-medium,Bowler,2014,2016,True,150,1035
+P0275,Lungi Warner,Nepal,1982,Right-hand bat,,Batsman,2008,2015,False,100,800
+P0276,Dinesh Anderson,India,1980,Right-hand bat,,Batsman,2008,2010,True,75,580
+P0277,Sanju de Bruyn,South Africa,2000,Right-hand bat,Right-arm fast,All-Rounder,2017,2020,True,75,860
+P0278,Josh Coetzee,New Zealand,1981,Right-hand bat,,Batsman,2008,2014,True,200,1145
+P0279,AB Markram,Australia,1989,Right-hand bat,,Wicketkeeper-Batsman,2008,2016,True,200,1445
+P0280,Faf Stubbs,India,1994,Right-hand bat,,Batsman,2011,2012,True,200,2100
+P0281,Jason Ashraf,England,2000,Right-hand bat,Right-arm fast,Bowler,2023,2025,False,50,185
+P0282,Babar Nortje,Australia,1979,Right-hand bat,Right-arm medium,All-Rounder,2008,2012,True,200,1335
+P0283,Mohammad Pant,India,1995,Left-hand bat,,Wicketkeeper-Batsman,2019,2020,True,50,160
+P0284,Hashim de Bruyn,Nepal,2002,Right-hand bat,Left-arm fast-medium,Bowler,2022,2025,True,100,935
+P0285,Virat Kishan,Sri Lanka,1978,Right-hand bat,,Batsman,2008,2009,False,200,1645
+P0286,Lockie Tahir,India,1979,Right-hand bat,,Batsman,2008,2020,False,50,100
+P0287,Rilee Agarwal,Nepal,1980,Left-hand bat,Left-arm wrist spin,Bowler,2008,2017,True,40,320
+P0288,Ajinkya Uthappa,India,1986,Right-hand bat,,Batsman,2008,2023,False,200,1065
+P0289,Shaheen Azam,India,2002,Right-hand bat,Left-arm medium,Bowler,2020,2023,True,20,55
+P0290,Naveen Williamson,Australia,1992,Left-hand bat,Left-arm medium,Bowler,2013,2025,False,20,40
+P0291,Hashim Rossouw,India,2000,Right-hand bat,Left-arm orthodox,All-Rounder,2020,2025,False,75,500
+P0292,AB Bairstow,England,1995,Right-hand bat,,Batsman,2015,2017,False,75,160
+P0293,Kane Sharma,India,2004,Left-hand bat,,Batsman,2022,2025,True,150,1695
+P0294,Ajinkya de Villiers,India,1998,Right-hand bat,,Wicketkeeper-Batsman,2022,2025,False,40,80
+P0295,Dawid Rizwan,India,1996,Left-hand bat,,Batsman,2019,2025,True,150,800
+P0296,Dinesh Shaw,India,1992,Right-hand bat,,Batsman,2011,2012,True,100,780
+P0297,Dale Siraj,India,1990,Right-hand bat,Right-arm fast,Bowler,2009,2016,False,40,325
+P0298,Kagiso Malan,USA,2003,Right-hand bat,,Wicketkeeper-Batsman,2025,2025,True,100,960
+P0299,Prithvi Natarajan,India,1985,Right-hand bat,,Batsman,2008,2023,True,200,1915
+P0300,Jason Samson,Nepal,1981,Right-hand bat,Left-arm medium,Bowler,2008,2019,False,40,155
+P0301,Aiden de Bruyn,England,2003,Left-hand bat,,Batsman,2022,2025,True,200,2380
+P0302,Quinton Southee,Bangladesh,1978,Left-hand bat,,Batsman,2008,2018,False,100,255
+P0303,Stuart Siraj,India,1985,Right-hand bat,Right-arm fast,Bowler,2008,2009,True,100,625
+P0304,Mohammed Curran,Bangladesh,2005,Right-hand bat,Left-arm fast,All-Rounder,2020,2021,False,40,300
+P0305,Mitch Cummins,India,1999,Left-hand bat,Right-arm medium,All-Rounder,2022,2025,True,20,95
+P0306,Jos van der Dussen,England,1983,Left-hand bat,,Wicketkeeper-Batsman,2008,2012,True,150,1120
+P0307,Imran van der Dussen,Zimbabwe,1996,Right-hand bat,Right-arm fast,All-Rounder,2019,2025,True,200,2325
+P0308,Bhuvneshwar Azam,England,1981,Left-hand bat,,Wicketkeeper-Batsman,2008,2011,True,50,460
+P0309,Babar Stokes,England,1988,Left-hand bat,Slow left-arm orthodox,Bowler,2012,2013,False,50,165
+P0310,Shadab du Plessis,India,2001,Left-hand bat,Right-arm fast,All-Rounder,2024,2025,True,75,480
+P0311,Shreyas Akhtar,South Africa,1999,Right-hand bat,,Batsman,2019,2022,False,75,135
+P0312,Dale Dhoni,India,1990,Left-hand bat,,Batsman,2009,2021,False,20,140
+P0313,Steve Zaman,South Africa,1991,Right-hand bat,Left-arm wrist spin,Bowler,2010,2020,True,75,205
+P0314,Liam Ali,India,1987,Right-hand bat,Right-arm fast-medium,Bowler,2008,2012,True,20,30
+P0315,Stuart Thakur,India,2004,Right-hand bat,,Batsman,2021,2023,True,20,65
+P0316,David Shami,Australia,1999,Right-hand bat,Right-arm leg break,All-Rounder,2020,2022,True,150,1050
+P0317,Faisal Akhtar,India,1986,Right-hand bat,Right-arm offbreak,Bowler,2008,2022,True,50,360
+P0318,Ambati Hales,India,2002,Right-hand bat,,Batsman,2022,2025,False,20,205
+P0319,Fazalhaq Pandey,Afghanistan,1993,Left-hand bat,Left-arm fast-medium,All-Rounder,2014,2016,False,75,820
+P0320,Denesh Ferguson,USA,1982,Left-hand bat,,Wicketkeeper-Batsman,2008,2021,False,75,220
+P0321,Trent Pandya,India,2004,Left-hand bat,Right-arm leg break,Bowler,2023,2025,False,100,385
+P0322,Aiden Pant,India,1986,Right-hand bat,,Batsman,2010,2025,False,200,225
+P0323,Ajinkya Agarwal,India,1996,Right-hand bat,Left-arm fast,All-Rounder,2014,2025,True,20,145
+P0324,Marco Pandey,India,1993,Left-hand bat,,Wicketkeeper-Batsman,2017,2018,True,40,160
+P0325,Bhuvneshwar Topley,South Africa,1979,Right-hand bat,Left-arm orthodox,All-Rounder,2008,2023,True,50,545
+P0326,Tom Amla,India,2005,Left-hand bat,,Batsman,2025,2025,True,50,585
+P0327,James Afridi,India,1992,Right-hand bat,,Batsman,2012,2025,True,200,1095
+P0328,Alzarri Riaz,India,2000,Right-hand bat,Left-arm fast,All-Rounder,2023,2025,False,200,2075
+P0329,Jasprit Bairstow,India,1992,Left-hand bat,,Batsman,2009,2024,True,50,440
+P0330,James Kumar,South Africa,1985,Right-hand bat,Right-arm medium,Bowler,2008,2016,False,100,590
+P0331,Jason Southee,New Zealand,2000,Right-hand bat,Right-arm offbreak,Bowler,2018,2023,True,20,105
+P0332,Devdutt Klaasen,India,1984,Left-hand bat,,Wicketkeeper-Batsman,2008,2019,False,75,500
+P0333,Nathan Topley,India,2003,Left-hand bat,,Batsman,2020,2024,False,50,385
+P0334,Krunal Rossouw,Sri Lanka,1992,Right-hand bat,Right-arm leg break,Bowler,2013,2017,True,75,325
+P0335,Deepak Chahal,Ireland,2004,Right-hand bat,Slow left-arm orthodox,Bowler,2024,2025,True,100,770
+P0336,Mitchell Chahar,India,1986,Left-hand bat,,Batsman,2008,2019,False,150,1720
+P0337,Moeen Taylor,West Indies,2003,Right-hand bat,Right-arm fast,Bowler,2025,2025,True,150,380
+P0338,Sunil Steyn,New Zealand,1996,Right-hand bat,,Batsman,2016,2022,False,150,1325
+P0339,Umesh Shami,India,1983,Right-hand bat,,Wicketkeeper-Batsman,2008,2013,False,20,125
+P0340,Rahul Rayudu,Afghanistan,1998,Right-hand bat,Slow left-arm orthodox,All-Rounder,2016,2020,False,50,175
+P0341,Fazalhaq Rizwan,Sri Lanka,1993,Right-hand bat,Left-arm wrist spin,Bowler,2010,2024,False,150,1115
+P0342,Suryakumar Shami,India,1987,Right-hand bat,,Wicketkeeper-Batsman,2010,2011,True,200,2080
+P0343,Sam Zaman,India,2005,Right-hand bat,Left-arm wrist spin,Bowler,2024,2025,True,20,125
+P0344,Jonny Azam,India,2002,Right-hand bat,Right-arm offbreak,Bowler,2021,2025,False,200,550
+P0345,Mitch Smith,India,1993,Right-hand bat,,Batsman,2016,2017,False,20,135
+P0346,Tristan Sharma,India,1999,Left-hand bat,,Wicketkeeper-Batsman,2016,2025,False,150,560
+P0347,Shadab Tahir,India,1980,Right-hand bat,,Batsman,2008,2013,True,50,300
+P0348,Axar Zaman,India,1993,Right-hand bat,Left-arm fast,Bowler,2015,2025,False,40,115
+P0349,Dawid Iyer,India,1978,Right-hand bat,,Batsman,2008,2010,False,50,440
+P0350,Shoaib Curran,England,1979,Right-hand bat,,Batsman,2008,2019,False,200,245
+P0351,Fazalhaq Dhawan,South Africa,1984,Right-hand bat,Left-arm wrist spin,Bowler,2008,2013,False,75,620
+P0352,Anrich Hazlewood,Australia,1997,Right-hand bat,Right-arm medium,Bowler,2015,2020,True,20,195
+P0353,Bhuvneshwar Curran,India,1991,Left-hand bat,Left-arm medium,All-Rounder,2012,2015,False,20,140
+P0354,Wriddhiman Chahar,India,1981,Right-hand bat,,Batsman,2008,2011,True,20,190
+P0355,Rahul Maxwell,USA,1987,Right-hand bat,,Wicketkeeper-Batsman,2008,2016,True,20,40
+P0356,Hardik Steyn,New Zealand,1981,Right-hand bat,Right-arm leg break,Bowler,2008,2009,True,200,505
+P0357,Mohammad Ali,Afghanistan,1980,Left-hand bat,,Wicketkeeper-Batsman,2008,2022,True,50,150
+P0358,Mark Amir,England,2003,Right-hand bat,Right-arm leg break,All-Rounder,2022,2024,True,40,345
+P0359,Dewald Buttler,West Indies,1999,Left-hand bat,,Batsman,2023,2025,True,100,520
+P0360,Jasprit Topley,Australia,1993,Left-hand bat,,Wicketkeeper-Batsman,2011,2025,True,75,440
+P0361,Washington Azam,New Zealand,1996,Left-hand bat,,Batsman,2016,2025,True,200,945
+P0362,Ambati Hazlewood,Australia,1999,Right-hand bat,,Batsman,2022,2025,False,200,2020
+P0363,Mohammed Rahul,Sri Lanka,2005,Left-hand bat,,Batsman,2021,2023,True,200,1280
+P0364,Lungi Rahul,India,1985,Right-hand bat,Right-arm leg break,Bowler,2008,2016,True,75,735
+P0365,Ollie Siraj,New Zealand,1978,Right-hand bat,Left-arm wrist spin,Bowler,2008,2015,True,75,105
+P0366,James Smith,India,1994,Left-hand bat,Slow left-arm orthodox,All-Rounder,2014,2025,True,150,905
+P0367,James Rahul,England,1997,Left-hand bat,Left-arm orthodox,All-Rounder,2021,2025,True,150,750
+P0368,Glenn Brewis,West Indies,2003,Right-hand bat,Left-arm orthodox,All-Rounder,2024,2025,True,100,510
+P0369,Rilee Stokes,India,1997,Left-hand bat,Right-arm leg break,Bowler,2017,2021,True,20,225
+P0370,Andre Ali,India,1998,Right-hand bat,Right-arm leg break,All-Rounder,2016,2025,True,75,450
+P0371,Denesh Conway,England,1991,Right-hand bat,,Wicketkeeper-Batsman,2015,2025,False,100,960
+P0372,Wriddhiman Zampa,India,1997,Left-hand bat,,Batsman,2019,2025,True,75,420
+P0373,Wriddhiman Brewis,Nepal,1992,Right-hand bat,,Batsman,2011,2014,False,75,570
+P0374,Shai Amla,South Africa,1995,Right-hand bat,Left-arm orthodox,All-Rounder,2015,2019,True,40,315
+P0375,Shadab Pope,Australia,2000,Left-hand bat,,Batsman,2022,2025,True,20,185
+P0376,Shikhar Ferguson,New Zealand,2004,Left-hand bat,,Wicketkeeper-Batsman,2025,2025,True,200,1130
+P0377,Mitchell Bumrah,India,2002,Right-hand bat,Right-arm fast,Bowler,2021,2025,False,150,565
+P0378,Wriddhiman Steyn,West Indies,1981,Right-hand bat,,Batsman,2008,2020,True,150,1075
+P0379,Josh Salt,India,2003,Right-hand bat,,Batsman,2025,2025,True,20,25
+P0380,Deepak Klaasen,Bangladesh,2000,Right-hand bat,,Wicketkeeper-Batsman,2022,2025,True,100,700
+P0381,Mitch Coetzee,USA,1980,Right-hand bat,,Wicketkeeper-Batsman,2008,2011,True,150,1000
+P0382,Ibrahim Ngidi,Sri Lanka,1978,Right-hand bat,Left-arm fast-medium,Bowler,2008,2016,True,150,1695
+P0383,Dwaine Afridi,England,1999,Left-hand bat,Slow left-arm orthodox,Bowler,2020,2025,True,200,1460
+P0384,Josh Rossouw,Australia,2003,Right-hand bat,,Batsman,2022,2025,True,100,690
+P0385,Chris Rashid,India,2002,Right-hand bat,Right-arm offbreak,All-Rounder,2024,2025,True,200,2360
+P0386,Sanju Khan,Bangladesh,1985,Left-hand bat,Left-arm fast-medium,Bowler,2008,2019,False,50,260
+P0387,Pat Amir,Bangladesh,2004,Left-hand bat,,Batsman,2024,2025,True,100,590
+P0388,Rilee Wood,India,2002,Right-hand bat,,Batsman,2019,2025,True,20,65
+P0389,Adil Topley,West Indies,2001,Right-hand bat,Right-arm fast-medium,Bowler,2024,2025,False,200,2265
+P0390,Ross Bumrah,India,1983,Right-hand bat,Right-arm medium,Bowler,2008,2017,True,20,145
+P0391,AB Kishan,India,1990,Right-hand bat,Right-arm leg break,Bowler,2008,2017,True,20,160
+P0392,Marcus Pretorius,India,1994,Left-hand bat,Right-arm medium,Bowler,2012,2017,True,200,1710
+P0393,Marco Brewis,India,1983,Right-hand bat,,Wicketkeeper-Batsman,2008,2011,False,150,795
+P0394,Shreyas Steyn,Afghanistan,2003,Right-hand bat,,Wicketkeeper-Batsman,2025,2025,True,100,1060
+P0395,Hardik Kohli,Zimbabwe,1987,Right-hand bat,Right-arm fast-medium,Bowler,2008,2020,True,150,1640
+P0396,Naveen Anderson,India,2004,Right-hand bat,,Wicketkeeper-Batsman,2025,2025,False,20,60
+P0397,Ollie Rahul,Australia,1995,Left-hand bat,,Wicketkeeper-Batsman,2013,2018,True,150,260
+P0398,Rahul Zampa,South Africa,1985,Right-hand bat,Left-arm fast,Bowler,2008,2013,True,100,175
+P0399,Nicholas Rahane,India,1996,Right-hand bat,,Batsman,2018,2025,True,50,575
+P0400,Babar Rabada,India,2004,Left-hand bat,Slow left-arm orthodox,All-Rounder,2021,2025,True,150,695
+P0401,Shimron Ali,India,1997,Right-hand bat,Right-arm medium,All-Rounder,2015,2025,True,50,520
+P0402,Yuzvendra Curran,South Africa,1978,Left-hand bat,,Batsman,2008,2022,False,100,735
+P0403,Adil Jadeja,Australia,2002,Right-hand bat,Right-arm fast-medium,Bowler,2021,2025,False,75,260
+P0404,Lockie Steyn,India,1994,Right-hand bat,,Batsman,2011,2022,False,40,415
+P0405,Mohammed Topley,India,1996,Right-hand bat,,Batsman,2015,2025,True,150,950
+P0406,Chris Brewis,India,1999,Right-hand bat,Left-arm orthodox,Bowler,2019,2025,True,200,995
+P0407,Andre Pandya,South Africa,1994,Right-hand bat,,Batsman,2015,2025,True,150,585
+P0408,Jonny Akhtar,Afghanistan,1980,Right-hand bat,Slow left-arm orthodox,All-Rounder,2008,2015,True,40,265
+P0409,Harry Khan,India,1982,Right-hand bat,Left-arm fast-medium,Bowler,2008,2011,True,40,75
+P0410,Adil Taylor,South Africa,1991,Right-hand bat,,Batsman,2013,2025,True,20,125
+P0411,Liam Southee,India,1982,Left-hand bat,,Batsman,2008,2011,False,150,995
+P0412,Martin Gill,Netherlands,1997,Left-hand bat,,Batsman,2014,2025,False,150,1350
+P0413,Tristan Warner,Sri Lanka,1983,Right-hand bat,,Batsman,2008,2022,False,75,570
+P0414,James Stubbs,India,1999,Right-hand bat,,Batsman,2021,2025,True,75,565
+P0415,Shoaib Amir,Sri Lanka,1994,Right-hand bat,,Batsman,2017,2025,True,40,305
+P0416,Gerald Lyon,Australia,1981,Left-hand bat,Right-arm fast-medium,Bowler,2008,2016,True,150,365
+P0417,James Kohli,India,1991,Left-hand bat,,Wicketkeeper-Batsman,2013,2025,True,20,175
+P0418,Dewald Chahar,West Indies,2002,Right-hand bat,Left-arm fast-medium,All-Rounder,2020,2025,False,40,150
+P0419,Rassie Warner,India,1978,Left-hand bat,,Batsman,2008,2018,True,100,230
+P0420,Washington Livingstone,India,1991,Right-hand bat,Left-arm orthodox,All-Rounder,2012,2017,True,200,1380
+P0421,Mohammed Ngidi,India,2003,Right-hand bat,,Wicketkeeper-Batsman,2021,2025,True,100,710
+P0422,Imran Ferguson,Sri Lanka,1999,Left-hand bat,,Batsman,2017,2025,False,40,235
+P0423,Jos Maxwell,West Indies,1997,Right-hand bat,,Batsman,2014,2017,True,75,870
+P0424,Steve Guptill,India,1985,Right-hand bat,Right-arm medium,Bowler,2008,2010,True,100,140
+P0425,Mohammad Lyon,India,2002,Right-hand bat,Left-arm fast-medium,All-Rounder,2021,2025,True,75,435
+P0426,Mayank Agarwal,Australia,2000,Right-hand bat,,Batsman,2020,2025,True,40,335
+P0427,Washington Kohli,New Zealand,1989,Right-hand bat,,Wicketkeeper-Batsman,2012,2019,True,100,320
+P0428,Robin Pant,Bangladesh,1989,Right-hand bat,,Wicketkeeper-Batsman,2011,2025,False,50,175
+P0429,Andre Iyer,Australia,1995,Right-hand bat,Right-arm leg break,Bowler,2013,2022,True,50,235
+P0430,Shai du Plessis,India,1992,Left-hand bat,,Wicketkeeper-Batsman,2015,2025,False,75,710
+P0431,Mitch Ashwin,Australia,1986,Left-hand bat,Right-arm fast,All-Rounder,2008,2015,True,150,1450
+P0432,Ambati Archer,Australia,1978,Right-hand bat,Left-arm orthodox,All-Rounder,2008,2012,False,50,100
+P0433,James Zaman,India,1984,Left-hand bat,,Batsman,2008,2011,False,150,1275
+P0434,Sunil de Bruyn,India,1984,Left-hand bat,,Batsman,2008,2022,False,100,490
+P0435,Kane Warner,India,2005,Right-hand bat,Left-arm fast-medium,All-Rounder,2022,2025,True,75,380
+P0436,Rilee Ferguson,India,1985,Right-hand bat,,Wicketkeeper-Batsman,2008,2009,True,100,980
+P0437,Shreyas Jadeja,New Zealand,1992,Right-hand bat,Slow left-arm orthodox,Bowler,2010,2022,False,100,605
+P0438,Rohit Pope,India,2005,Right-hand bat,,Batsman,2021,2025,True,50,180
+P0439,Mohammed Zaman,India,2002,Right-hand bat,Left-arm medium,Bowler,2024,2025,True,200,1080
+P0440,Devdutt Boult,South Africa,2003,Right-hand bat,,Wicketkeeper-Batsman,2023,2025,True,75,780
+P0441,Daniel de Bruyn,India,1982,Left-hand bat,,Batsman,2008,2021,True,75,325
+P0442,Prithvi Rahul,India,1986,Right-hand bat,Right-arm fast,Bowler,2010,2024,False,150,310
+P0443,AB Ashraf,India,1991,Right-hand bat,Right-arm offbreak,Bowler,2009,2015,True,200,1695
+P0444,Devdutt Ferguson,India,1999,Right-hand bat,Right-arm offbreak,Bowler,2023,2025,True,150,885
+P0445,Mohammed Jansen,England,1988,Left-hand bat,Left-arm fast,Bowler,2011,2022,False,100,730
+P0446,Suryakumar Warner,South Africa,2000,Right-hand bat,,Batsman,2021,2025,False,150,805
+P0447,Mitch Ashraf,India,1983,Right-hand bat,Left-arm wrist spin,All-Rounder,2008,2011,True,150,535
+P0448,Tim Salt,India,1980,Right-hand bat,Right-arm leg break,All-Rounder,2008,2017,True,20,25
+P0449,Aaron Warner,South Africa,1990,Right-hand bat,,Batsman,2011,2015,True,40,365
+P0450,Axar Stokes,Sri Lanka,1992,Right-hand bat,,Batsman,2013,2022,False,75,185
+P0451,Shreyas Bairstow,Afghanistan,1991,Right-hand bat,Slow left-arm orthodox,Bowler,2012,2025,True,50,315
+P0452,Steve Dhawan,India,1978,Right-hand bat,,Batsman,2008,2014,True,50,310
+P0453,Dwaine Thakur,New Zealand,2003,Right-hand bat,,Wicketkeeper-Batsman,2024,2025,True,40,390
+P0454,Moeen Kishan,India,2001,Right-hand bat,,Wicketkeeper-Batsman,2024,2025,True,75,255
+P0455,Shardul de Kock,West Indies,1999,Left-hand bat,Left-arm fast-medium,Bowler,2020,2025,False,150,1375
+P0456,Naveen Ali,India,1992,Right-hand bat,,Wicketkeeper-Batsman,2016,2021,True,150,1180
+P0457,MS Taylor,Nepal,1987,Right-hand bat,,Batsman,2008,2011,True,150,875
+P0458,Steve Taylor,India,2003,Right-hand bat,,Batsman,2022,2025,True,150,1455
+P0459,Stuart Brevis,India,1993,Right-hand bat,,Wicketkeeper-Batsman,2012,2016,True,200,750
+P0460,Rohit Williamson,New Zealand,1992,Left-hand bat,,Wicketkeeper-Batsman,2012,2024,False,20,65
+P0461,Glenn Agarwal,South Africa,1987,Right-hand bat,Right-arm leg break,All-Rounder,2009,2012,False,150,1350
+P0462,Ishan Agarwal,India,1979,Right-hand bat,,Batsman,2008,2010,True,40,320
+P0463,Ben Ngidi,India,1979,Right-hand bat,Left-arm medium,Bowler,2008,2020,False,100,270
+P0464,Kagiso Buttler,Pakistan,2002,Right-hand bat,Left-arm orthodox,Bowler,2019,2020,False,50,405
+P0465,Matthew Starc,West Indies,2002,Right-hand bat,,Batsman,2024,2025,True,75,680
+P0466,Shoaib Ali,Australia,1992,Right-hand bat,Right-arm fast,All-Rounder,2013,2022,True,150,960
+P0467,Shreyas Khan,Bangladesh,1995,Right-hand bat,,Batsman,2014,2016,True,100,270
+P0468,AB Karthik,Australia,2001,Right-hand bat,Slow left-arm orthodox,Bowler,2020,2025,True,20,155
+P0469,Deepak de Kock,West Indies,1984,Right-hand bat,,Batsman,2008,2021,True,100,270
+P0470,Shaheen Cummins,Sri Lanka,1982,Right-hand bat,,Batsman,2008,2022,True,20,65
+P0471,Glenn Jadeja,Australia,1997,Left-hand bat,Slow left-arm orthodox,Bowler,2018,2019,False,50,170
+P0472,Rohit Livingstone,Australia,1998,Left-hand bat,Right-arm medium,All-Rounder,2015,2021,False,100,920
+P0473,James Riaz,India,1979,Right-hand bat,Left-arm fast-medium,All-Rounder,2008,2022,True,50,95
+P0474,Alzarri Maxwell,India,1994,Right-hand bat,,Batsman,2014,2024,True,150,1715
+P0475,Ruturaj Gaikwad,India,1992,Left-hand bat,Left-arm fast-medium,All-Rounder,2015,2025,True,20,55
+P0476,Mohammad Natarajan,India,1989,Right-hand bat,,Batsman,2011,2020,True,50,515
+P0477,Umesh Padikkal,England,1984,Right-hand bat,Left-arm medium,All-Rounder,2008,2021,True,100,1120
+P0478,Shimron Rahane,USA,1997,Right-hand bat,,Wicketkeeper-Batsman,2014,2023,True,40,475
+P0479,Hashim Gayle,Bangladesh,1994,Right-hand bat,,Batsman,2013,2015,True,20,120
+P0480,Faisal Zampa,India,1990,Right-hand bat,,Batsman,2010,2022,False,20,180
+P0481,Jonny Thakur,West Indies,1981,Right-hand bat,Left-arm fast-medium,All-Rounder,2008,2009,True,150,1485
+P0482,Mitch Gill,India,2005,Right-hand bat,,Wicketkeeper-Batsman,2023,2025,False,200,700
+P0483,Bhuvneshwar Sharma,India,1979,Right-hand bat,Right-arm fast,Bowler,2008,2017,True,100,265
+P0484,Chris Taylor,Nepal,2002,Left-hand bat,,Batsman,2020,2024,True,75,315
+P0485,Trent Zaman,Australia,1986,Right-hand bat,,Batsman,2008,2015,False,100,580
+P0486,Aaron Conway,South Africa,1984,Right-hand bat,Right-arm leg break,Bowler,2008,2012,True,20,80
+P0487,Dinesh Ferguson,India,1984,Right-hand bat,,Batsman,2008,2014,False,100,820
+P0488,Ben Khan,England,1992,Left-hand bat,Left-arm wrist spin,Bowler,2009,2024,False,200,715
+P0489,Ross Brevis,India,1997,Right-hand bat,Right-arm fast,All-Rounder,2016,2025,True,200,2005
+P0490,Wriddhiman Cummins,India,1995,Right-hand bat,,Batsman,2015,2019,True,100,675
+P0491,Dwayne Hazlewood,India,1996,Right-hand bat,Slow left-arm orthodox,All-Rounder,2013,2018,True,40,65
+P0492,Anrich Rahul,India,1986,Left-hand bat,Right-arm medium,Bowler,2008,2022,False,20,25
+P0493,Washington Amir,Bangladesh,1993,Right-hand bat,,Batsman,2011,2014,True,40,260
+P0494,Dwaine Markram,India,1993,Right-hand bat,,Batsman,2016,2025,False,40,50
+P0495,Hasan Malan,India,1979,Left-hand bat,,Batsman,2008,2023,False,75,810
+P0496,Jasprit Rayudu,Afghanistan,1999,Right-hand bat,,Wicketkeeper-Batsman,2018,2020,False,150,780
+P0497,Mohammed Malan,India,1987,Right-hand bat,Left-arm fast-medium,All-Rounder,2009,2017,False,100,245
+P0498,Shikhar Karthik,India,2000,Right-hand bat,Left-arm fast,All-Rounder,2019,2025,False,200,520
+P0499,Aiden Buttler,India,2004,Right-hand bat,,Batsman,2023,2025,False,20,190
+P0500,Naveen Kishan,Pakistan,1986,Left-hand bat,,Batsman,2008,2021,True,40,85
+P0501,Aaron Lyon,India,1985,Right-hand bat,Left-arm fast-medium,Bowler,2008,2019,False,20,100
+P0502,Dwayne Conway,India,2005,Right-hand bat,Slow left-arm orthodox,Bowler,2023,2025,True,40,110
+P0503,Naveen Brewis,India,1999,Left-hand bat,,Wicketkeeper-Batsman,2019,2025,False,40,70
+P0504,Najibullah Lyon,Afghanistan,1991,Right-hand bat,Left-arm wrist spin,Bowler,2014,2025,False,20,155
+P0505,Rahul Azam,England,1994,Left-hand bat,Left-arm fast-medium,Bowler,2011,2020,False,20,120
+P0506,Hardik Rabada,England,1994,Right-hand bat,Right-arm fast,Bowler,2011,2015,False,50,290
+P0507,Mitch Jansen,Bangladesh,2000,Right-hand bat,Left-arm fast-medium,Bowler,2019,2025,True,200,1620
+P0508,Denesh Cummins,India,1991,Right-hand bat,,Batsman,2013,2021,True,20,60
+P0509,Krunal Curran,South Africa,2000,Right-hand bat,,Wicketkeeper-Batsman,2019,2025,True,150,355
+P0510,Shimron Curran,South Africa,1994,Right-hand bat,Right-arm leg break,Bowler,2013,2020,False,100,520
+P0511,Rassie Rizwan,India,1982,Right-hand bat,Left-arm fast,Bowler,2008,2021,True,150,235
+P0512,Lockie Stubbs,India,1982,Right-hand bat,,Wicketkeeper-Batsman,2008,2009,True,100,940
+P0513,Sunil Siraj,India,1996,Right-hand bat,Left-arm wrist spin,Bowler,2020,2025,True,75,440
+P0514,Virat Rabada,England,2004,Right-hand bat,,Wicketkeeper-Batsman,2024,2025,False,40,105
+P0515,Ravindra Guptill,India,1980,Right-hand bat,,Wicketkeeper-Batsman,2008,2010,True,75,895
+P0516,Marco Lyon,West Indies,1983,Right-hand bat,Left-arm fast-medium,All-Rounder,2008,2020,True,100,495
+P0517,Nathan Amla,New Zealand,2004,Left-hand bat,,Batsman,2022,2025,False,75,185
+P0518,Lungi Rizwan,England,1981,Right-hand bat,Left-arm medium,Bowler,2008,2016,False,150,1285
+P0519,Robin Jansen,Australia,1997,Left-hand bat,Right-arm offbreak,Bowler,2019,2025,True,40,310
+P0520,Lockie Malan,India,1987,Left-hand bat,Left-arm fast-medium,Bowler,2008,2009,True,20,25
+P0521,Kane de Bruyn,India,1988,Left-hand bat,Right-arm leg break,All-Rounder,2010,2019,True,200,1605
+P0522,Sam Brook,India,1995,Left-hand bat,,Batsman,2017,2025,True,20,45
+P0523,Mujeeb Coetzee,India,2004,Left-hand bat,Left-arm fast,Bowler,2025,2025,True,75,735
+P0524,Dwayne Taylor,Afghanistan,1992,Left-hand bat,Right-arm fast-medium,Bowler,2015,2025,True,150,240
+P0525,Prithvi Coetzee,India,1999,Right-hand bat,Right-arm fast,All-Rounder,2021,2025,False,200,980
+P0526,Lungi Bumrah,Sri Lanka,1996,Right-hand bat,,Batsman,2019,2022,False,100,230
+P0527,Imran Rossouw,India,1993,Left-hand bat,,Wicketkeeper-Batsman,2013,2019,True,75,760
+P0528,Axar Amla,New Zealand,1980,Right-hand bat,,Batsman,2008,2017,False,20,195
+P0529,Ross Ali,India,1988,Right-hand bat,,Batsman,2008,2021,False,200,415
+P0530,Alzarri Pope,Australia,2000,Right-hand bat,,Wicketkeeper-Batsman,2018,2019,False,50,565
+P0531,Ravichandran Smith,Australia,1999,Left-hand bat,,Batsman,2020,2021,True,100,935
+P0532,Liam Afridi,India,1992,Right-hand bat,,Batsman,2010,2015,True,40,110
+P0533,Heinrich Hazlewood,India,1988,Right-hand bat,Right-arm fast-medium,Bowler,2009,2012,True,150,1475
+P0534,Ben Yadav,India,1982,Left-hand bat,,Batsman,2008,2016,True,150,235
+P0535,Steve Shaw,England,2000,Left-hand bat,Left-arm fast-medium,Bowler,2024,2025,False,50,220
+P0536,Krunal Brewis,England,1980,Right-hand bat,Left-arm wrist spin,All-Rounder,2008,2010,True,75,330
+P0537,Nathan Kumar,Sri Lanka,1997,Left-hand bat,Left-arm fast,Bowler,2018,2025,False,50,265
+P0538,Sanju Rizwan,Australia,1980,Left-hand bat,Left-arm wrist spin,All-Rounder,2008,2010,False,50,315
+P0539,Marco Stubbs,India,2004,Right-hand bat,,Batsman,2022,2025,False,100,815
+P0540,Yuzvendra Kumar,India,1983,Right-hand bat,Left-arm fast-medium,Bowler,2008,2015,False,20,95
+P0541,Ajinkya Padikkal,Australia,1985,Right-hand bat,Left-arm orthodox,All-Rounder,2008,2019,False,150,280
+P0542,Devdutt Thakur,England,2004,Right-hand bat,,Batsman,2021,2025,True,75,130
+P0543,Tom Marsh,England,1979,Right-hand bat,Left-arm wrist spin,All-Rounder,2008,2012,True,200,505
+P0544,Marcus Curran,India,1995,Left-hand bat,Slow left-arm orthodox,All-Rounder,2016,2023,True,100,735
+P0545,Dinesh Azam,India,1991,Left-hand bat,,Batsman,2013,2015,False,100,110
+P0546,Mohammad Boult,Ireland,1978,Right-hand bat,,Wicketkeeper-Batsman,2008,2010,True,200,820
+P0547,Gulbadin Salt,India,1991,Right-hand bat,Right-arm leg break,Bowler,2011,2022,True,40,250
+P0548,Rashid Ashraf,India,1978,Right-hand bat,Slow left-arm orthodox,All-Rounder,2008,2019,False,20,50
+P0549,Mayank Padikkal,England,1991,Right-hand bat,,Wicketkeeper-Batsman,2015,2025,False,200,1730
+P0550,Deepak Root,India,1985,Right-hand bat,Left-arm wrist spin,Bowler,2008,2015,True,100,110
+P0551,Lockie de Kock,England,1979,Right-hand bat,Right-arm fast-medium,All-Rounder,2008,2018,True,75,655
+P0552,Dwayne Brook,USA,2002,Left-hand bat,,Batsman,2023,2025,False,100,185
+P0553,Steve Rabada,India,1998,Left-hand bat,Slow left-arm orthodox,Bowler,2019,2025,True,20,220
+P0554,Rohit Shami,New Zealand,1991,Left-hand bat,Left-arm fast-medium,Bowler,2013,2025,True,50,210
+P0555,Dwaine Marsh,India,1998,Left-hand bat,Left-arm fast-medium,All-Rounder,2022,2025,False,40,290
+P0556,Dale de Bruyn,India,1980,Right-hand bat,Right-arm medium,Bowler,2008,2013,True,40,310
+P0557,Faf Sharma,New Zealand,1999,Right-hand bat,Left-arm fast-medium,All-Rounder,2023,2025,False,200,585
+P0558,Quinton Thakur,India,1980,Right-hand bat,,Batsman,2008,2018,True,200,540
+P0559,Naveen Stubbs,India,1996,Right-hand bat,Slow left-arm orthodox,Bowler,2018,2019,False,150,585
+P0560,KL Stokes,New Zealand,2002,Right-hand bat,Left-arm wrist spin,Bowler,2022,2025,True,150,1315
+P0561,Martin Samson,India,1988,Right-hand bat,,Wicketkeeper-Batsman,2008,2010,False,100,800
+P0562,Gulbadin Lyon,India,2003,Left-hand bat,,Wicketkeeper-Batsman,2021,2025,True,150,1115
+P0563,Manish Pretorius,Australia,1999,Right-hand bat,,Batsman,2018,2024,True,100,110
+P0564,Rishabh Sharma,India,1985,Right-hand bat,Slow left-arm orthodox,Bowler,2008,2013,True,40,55
+P0565,Shubman Marsh,England,2000,Left-hand bat,Left-arm fast-medium,All-Rounder,2018,2020,True,200,1530
+P0566,Aaron Anderson,South Africa,1986,Left-hand bat,Right-arm medium,Bowler,2008,2016,True,150,1695
+P0567,Dwaine Ngidi,New Zealand,1988,Right-hand bat,Slow left-arm orthodox,All-Rounder,2009,2012,False,200,365
+P0568,Mohammad Gill,India,1993,Left-hand bat,,Batsman,2013,2023,True,75,220
+P0569,Martin Karthik,India,1992,Right-hand bat,Slow left-arm orthodox,All-Rounder,2013,2015,True,20,35
+P0570,Faf Klaasen,South Africa,1978,Left-hand bat,Left-arm fast,Bowler,2008,2019,False,75,295
+P0571,Gerald Chahal,Australia,1990,Right-hand bat,Left-arm wrist spin,Bowler,2008,2017,False,40,40
+P0572,Tom Klaasen,India,1987,Right-hand bat,Left-arm orthodox,Bowler,2010,2011,True,150,1795
+P0573,Faheem Pandey,New Zealand,1987,Right-hand bat,,Wicketkeeper-Batsman,2008,2011,True,100,145
+P0574,Moeen Amla,South Africa,1993,Left-hand bat,Slow left-arm orthodox,All-Rounder,2011,2025,True,150,875
+P0575,Ravindra Ali,Australia,1980,Left-hand bat,,Batsman,2008,2016,False,100,1160
+P0576,MS Jadeja,India,1984,Right-hand bat,,Batsman,2008,2019,True,200,2125
+P0577,Shikhar Archer,Australia,1978,Right-hand bat,,Wicketkeeper-Batsman,2008,2023,False,100,150
+P0578,Trent Sharma,West Indies,1981,Right-hand bat,,Batsman,2008,2018,True,40,410
+P0579,Tom Starc,India,2003,Right-hand bat,,Batsman,2023,2025,False,50,495
+P0580,Manish Iyer,Australia,1988,Left-hand bat,,Batsman,2008,2021,True,20,150
