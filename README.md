@@ -37,7 +37,7 @@ streamlit run app.py
 ## Deploy on Streamlit Community Cloud
 
 1. Push this repo to a **public** GitHub repository.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in, and click **New app**.
+2. Go to [share.streamlit.io](https://iplanalysisfinalproject-sbemxk9d7xtcrvkatepwhy.streamlit.app/), sign in, and click **New app**.
 3. Point it at this repo, branch `main`, main file `app.py`.
 4. Deploy — you'll get a public URL to submit alongside the repo link.
 
